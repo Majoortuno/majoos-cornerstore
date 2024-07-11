@@ -1,2 +1,8 @@
 <html>
-<header> MajoOrtuno </header>
+<header>
+<title> "MajoOrtuno" </title> 
+</header>
+<nav> <hn> "Welcome!" </hn> 
+<hn> "projects" </hn> 
+<hn> "Contact!" </hn> 
+</nav>
